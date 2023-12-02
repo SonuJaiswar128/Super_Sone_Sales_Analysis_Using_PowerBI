@@ -1,1 +1,5 @@
-# Super_Sone_Sales_Analysis_Using_PowerBI
+About Database
+
+This is a sample superstore dataset, a kind of a simulation where you perform extensive data analysis to deliver insights on how the company can increase its profits while minimizing the losses.
+
+Tools Used-Power Bi and Excel
